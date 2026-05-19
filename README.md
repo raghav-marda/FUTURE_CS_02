@@ -1,4 +1,3 @@
-````md
 # 🎣 Phishing Email Detection & Awareness
 
 <div align="center">
@@ -18,32 +17,33 @@ This repository contains the submission for **Task 02** of the **Future Interns 
 The objective of this task was to analyze phishing email samples and identify common cyber fraud techniques used in phishing attacks and social engineering scams.
 
 This project demonstrates:
-- Phishing email analysis
-- Identification of suspicious sender domains
-- Detection of malicious links
-- Comparison between phishing and legitimate emails
-- Cybersecurity awareness practices
+
+* Phishing email analysis
+* Identification of suspicious sender domains
+* Detection of malicious links
+* Comparison between phishing and legitimate emails
+* Cybersecurity awareness practices
 
 ---
 
 # 🎯 Objectives
 
-- Understand how phishing attacks work
-- Analyze suspicious email structures
-- Detect fake domains and malicious URLs
-- Differentiate between phishing and legitimate emails
-- Spread cybersecurity awareness regarding email scams
+* Understand how phishing attacks work
+* Analyze suspicious email structures
+* Detect fake domains and malicious URLs
+* Differentiate between phishing and legitimate emails
+* Spread cybersecurity awareness regarding email scams
 
 ---
 
 # 🛠 Tools & Technologies Used
 
-| Tool | Purpose |
-|------|----------|
-| GitHub | Project Documentation |
-| Email Analysis Techniques | Phishing Detection |
-| Screenshot Documentation | Evidence Collection |
-| Cybersecurity Awareness Concepts | Threat Analysis |
+| Tool                             | Purpose               |
+| -------------------------------- | --------------------- |
+| GitHub                           | Project Documentation |
+| Email Analysis Techniques        | Phishing Detection    |
+| Screenshot Documentation         | Evidence Collection   |
+| Cybersecurity Awareness Concepts | Threat Analysis       |
 
 ---
 
@@ -63,7 +63,7 @@ FUTURE_CS_02/
 │   └── 5-safe-google-email.png
 │
 └── README.md
-````
+```
 
 ---
 
@@ -200,6 +200,3 @@ Awareness, careful verification, and cybersecurity best practices can significan
 Cyber Security Intern — Future Interns
 
 ---
-
-```
-```
